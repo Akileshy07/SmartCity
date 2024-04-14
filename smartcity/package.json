@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-    "homepage": "https://Akileshy07.github.io/SmartCity",
+    "homepage": "https://akileshy07.github.io/SmartCity",
   "scripts": {
     "predeploy": "npm run build",
     "deploy":"gh-pages -d build",
